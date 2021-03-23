@@ -1,0 +1,4 @@
+row_id, user_id, user_state, user_manager
+1, 123456, active, soniabravocid@gmail.com
+2, 123457, active, adolfoerc@gmail.com
+3, 123458, inactive, soniabravocid@outlook.cl

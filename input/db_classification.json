@@ -1,0 +1,33 @@
+{
+    "version": "0.0.1",
+    "databases": [
+        {
+            "db_name": "HR-DB",
+            "data_classification": "Medium",
+            "owner_id": "123458",
+            "owner_name": "Maria Perez",
+            "owner_email": "maria.perez@gmail.com"
+        },
+        {
+            "db_name": "Analytics-DB",
+            "data_classification":  "Low",
+            "owner_id": "123457",
+            "owner_email": "pedro.lopez@gmail.com"
+        },
+        {
+            "db_name": "CreditCard-DB",
+            "data_classification": "High",
+            "owner_id": "123457",
+            "owner_email": "sofia.bravo@gmail.com"
+        },
+        {
+            "db_name": "Payments-DB",
+            "data_classification": "High",
+            "owner_id": "123456",
+            "owner_name": "Andres Calderón",
+            "owner_email": "andres.calderon@gmail.com"
+        }
+    ]
+
+    
+}
