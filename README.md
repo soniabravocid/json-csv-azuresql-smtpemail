@@ -2,7 +2,7 @@
 --------------------
 ## Introducción
 
-Aplicación Python que procesa archivos planos con información de usuarios y de clasificación de datos de un conjunto las bases de datos. Dicha aplicación almacena los datos procesados en una base de datos y gatilla envío de correos electrónicos de validación para aquellas bases de datos críticas.
+Aplicación Python que procesa archivos planos con información de usuarios y de clasificación de datos de un conjunto de bases de datos. Dicha aplicación almacena los datos procesados en una base de datos y gatilla envío de correos electrónicos de validación para aquellas bases de datos críticas.
 
 Versión Python: 3.7.4
 
