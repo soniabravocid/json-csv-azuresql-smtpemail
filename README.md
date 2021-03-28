@@ -6,7 +6,7 @@ Aplicación Python que procesa archivos planos con información de usuarios y de
 
 Versión Python: 3.7.4
 
-## Prerequsitos
+## Prerrequsitos
 
 * Instalar las siguientes librerias:
 
