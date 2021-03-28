@@ -16,9 +16,9 @@ Versión Python: 3.7.4
 `email-to`
 
 ## Ejecución
-Ejecutar main.py
+Ejecutar archivo main.py
 
-Si desea agregar o modificar los datos de entrada, puede actualizar los archivos:
+Si desea agregar o modificar los datos de entrada, puede editar los archivos:
 - input/db_classification.json
 - input/users.csv
 
